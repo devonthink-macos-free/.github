@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://static.macupdate.com/products/61372/m/devonthink-standard-logo.png?v=1669837028" alt="DEVONthink Logo" width="200" /> </p> <p align="center">
+
+![4](https://github.com/user-attachments/assets/c7aad9a1-4e79-42d4-a2f1-41884ea871ad)
 
 <h1 align="center">🧠 DEVONthink for Mac — Free Download</h1>
 
