@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://brandfetch.com/devon-technologies.com/logo.svg" alt="DEVONthink Logo" width="200" />
-</p>
+<p align="center"> <img src="https://static.macupdate.com/products/61372/m/devonthink-standard-logo.png?v=1669837028" alt="DEVONthink Logo" width="200" /> </p> <p align="center">
 
 <h1 align="center">🧠 DEVONthink for Mac — Free Download</h1>
 
